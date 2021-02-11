@@ -24,3 +24,5 @@ Play Offs were intense this season - the first one with a prize! Sophia, in a Ye
 
 Season 5 was bizarre. Dark horse Anushka came up from seemingly nowhere mid-season. At that point, Anushka seemed like the obvious favourite, with Vrish and Sophia with a small but not impossible gap in points. Going into the last four races, the doors were wide open. In a surprising turn of events, the favourites had a hard time scoring. Anushka wrapped up the Drivers' Championship and Your Mum, with the crucial help of Jemima in the last race, won the Teams' championship. 
 All is open for Play Offs... Hopefully a thriling end to the season. 
+
+<sub><sup>Written by Sophia Fry</sup></sub>
