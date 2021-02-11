@@ -9,7 +9,7 @@ Formula j is an amazing virtual racing game, created by Mia Wilkes :).
 Drivers compete in teams to win chamionships - winner of the teams chamionship takes home a grand prize of 100 credits.
 After the season, we now have the new Play Offs! Exclusive to the top 20 drivers in the championship. That winner takes home the prize of 25 credits.
 
-***History of Formula j***
+## History of Formula j
 
 In the first season of Formula j, Sophia was rocking the game, single handedly winning both the drivers and teams championship. After that incredible season, she decided to die, going 21 aggression, not scoring any points whatsoever - basically, don't go 21 aggression, folks!
 
