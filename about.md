@@ -28,11 +28,11 @@ All is open for Play Offs... Hopefully a thriling end to the season.
 
 ## Records
 
-> Without winning a single championship, Vedang holds the most wins out of everyone.
-> Vrish holds the record in points
-> Jemima and Anushka have qualified for all 60 races in Formula j
-> Your Mum and Yer Da hold the joint record in Teams' Championships
-> Sophia holds the record in Drivers' Championships
+* Without winning a single championship, Vedang holds the most wins out of everyone.
+* Vrish holds the record in points
+* Jemima and Anushka have qualified for all 60 races in Formula j
+* Your Mum and Yer Da hold the joint record in Teams' Championships
+* Sophia holds the record in Drivers' Championships
 
 
 
