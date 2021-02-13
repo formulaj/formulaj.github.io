@@ -39,7 +39,7 @@ for i in range(100000000000000):
             quit()
 
 
-g = Github("7c8459971ea07bd6cb1e091635d5a438520f6cf3")
+g = Github("30877affcc6a08766bcb5c2a944799add0a8ea20")
 repo = g.get_user().get_repo("formulaj.github.io")
 
 all_files = []
