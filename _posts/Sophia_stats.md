@@ -1,1 +1,1 @@
-[Sophia](https://formulaj.github.io/about/)
+This is a test page for Sophia's stats
