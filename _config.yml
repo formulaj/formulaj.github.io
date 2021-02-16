@@ -26,7 +26,7 @@ navigation: # Navigation links
 tagline: >
   Official site for Formula j! Created by Mia Wilkes. Check us out here for all the stats on our ongoing seasons and drivers!
 
-hero_img: posts/season_image.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/season_image_new.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: formulaj@yahoo.com # email for form submission
 
