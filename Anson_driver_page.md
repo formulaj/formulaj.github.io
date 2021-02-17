@@ -10,6 +10,6 @@ title: Anson Driver Statistics
 |   3 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 0.0      | 27.0  |
 |   4 | DNF  | DNF  | 16   | DNQ  | 15   | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 53.0     | 10.0  |
 |   5 | 9    | DNQ  | -    | DNQ  | DNQ  | -    | -    | -      | DNQ  | DNQ   | -     | -     | 1.0      | 29.0  |
-|   6 | -    | DNF  | 17   | 5    | 12   | 8    | 9    | -      | -    | nan   | nan   | nan   | 0.0      | 35.0  |
+|   6 | -    | DNF  | 17   | 5    | 12   | 8    | 9    | -      | -    | -     | -     | 20    | 0.0      | 35.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 17   | 0    | 0    | 8    | 11   | 34   | 3    | 9      | 23   | 72.73 | 0.5   | 5     | 0.0      | 41.0  |
+|   0 | 20   | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | DNQ   | -        | 9     |
