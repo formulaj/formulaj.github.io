@@ -3,11 +3,13 @@ layout: post
 title: Jemima Driver Statistics
 --- 
 
-|    | R1   | R2   | R3   | R4   | R5   | R6   | R7   | R8   | R9   | R10   | R11   | R12   |
-|---:|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:------|:------|:------|
-|  1 | 9    | 5    | DNF  | 9    | DNF  | 11   | 14   | 13   | DNF  | 11    | 2     | DNF   |
-|  2 | DNF  | 11   | DNF  | DNF  | 2    | 4    | DNF  | DNF  | 4    | 1     | 1     | 6     |
-|  3 | 1    | 1    | 4    | 3    | 2    | 3    | 4    | 4    | 2    | DNF   | 4     | 3     |
-|  4 | 10   | DNF  | DNF  | 3    | 6    | DNF  | 3    | 7    | 11   | DNF   | 10    | 14    |
-|  5 | DNF  | 2    | DNF  | 2    | DNF  | DNF  | 1    | 3    | 5    | DNF   | DNF   | 7     |
-|  6 | 3    | 10   | 4    | DNF  | DNQ  | 3    | 1    | DNF  | 1    | nan   | nan   | nan   |
+|     | R1   | R2   | R3   | R4   | R5   | R6   | R7   | R8     | R9   | R10   | R11   | R12   | Points   | Pos   |
+|----:|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-------|:-----|:------|:------|:------|:---------|:------|
+|   1 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 70.0     | 6.0   |
+|   2 | 6    | 8    | DNF  | DNF  | 15   | 8    | 7    | DNF    | DNF  | 9     | DNF   | DNF   | 105.0    | 3.0   |
+|   3 | 6    | 8    | 16   | 12   | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | 5     | DNQ   | DNF   | 129.0    | 3.0   |
+|   4 | DNQ  | DNQ  | DNQ  | 10   | DNF  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 131.0    | 2.0   |
+|   5 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | -    | DNQ   | -     | -     | 60.0     | 8.0   |
+|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | DNQ  | nan   | nan   | nan   | 103.0    | 1.0   |
+| nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
+|   0 | 48   | 0    | 0    | 12   | 20   | 49   | 8    | 2      | 29   | 60.0  | 0.98  | 5     | 0.0      | 28.0  |
