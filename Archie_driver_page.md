@@ -10,6 +10,6 @@ title: Archie Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 107.0    | 4.0   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 75.0     | 6.0   |
 |   5 | -    | DNQ  | -    | DNQ  | -    | -    | DNQ  | -      | DNQ  | -     | -     | -     | 134.0    | 1.0   |
-|   6 | DNQ  | DNQ  | DNQ  | -    | -    | DNQ  | -    | -      | -    | nan   | nan   | nan   | 71.0     | 7.0   |
+|   6 | DNQ  | DNQ  | DNQ  | -    | -    | DNQ  | -    | -      | -    | -     | -     | -     | 71.0     | 7.0   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 0    | 0    | 8    | 0    | 0      | 8    | 0.0   | 0.0   | 0     | 0.0      | 65.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
