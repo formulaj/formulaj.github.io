@@ -10,6 +10,6 @@ title: Tai Driver Statistics
 |   3 | DNQ  | 10   | DNQ  | DNQ  | 8    | 15   | 16   | DNQ    | 14   | DNQ   | DNQ   | -     | 0.0      | 36.0  |
 |   4 | 9    | 2    | 2    | NC   | 4    | 6    | 4    | 14     | DNF  | DNQ   | DNQ   | 16    | 0.0      | 33.0  |
 |   5 | -    | DNF  | 4    | 4    | 7    | 6    | 5    | 8      | 10   | DNF   | DNF   | 12    | 0.0      | 36.0  |
-|   6 | -    | DNF  | DNQ  | 11   | 4    | -    | DNF  | 5      | -    | nan   | nan   | nan   | 0.0      | 32.0  |
+|   6 | -    | DNF  | DNQ  | 11   | 4    | -    | DNF  | 5      | -    | -     | -     | -     | 0.0      | 32.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 124  | 0    | 2    | 24   | 31   | 40   | 6    | 58     | 9    | 77.42 | 3.1   | 2     | 0.0      | 15.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | DNQ   | -        | -     |
