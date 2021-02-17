@@ -12,4 +12,4 @@ title: Vrish Driver Statistics
 |   5 | 4    | 3    | 2    | 5    | 1    | DNF  | DNF  | 5      | DNF  | 1     | 8     | DNF   | 60.0     | 8.0   |
 |   6 | 12   | 1    | 8    | DNF  | 1    | 2    | 4    | 15     | DNF  | nan   | nan   | nan   | 145.0    | 1.0   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 594  | 9    | 25   | 53   | 68   | 68   | 15   | 221    | 0    | 77.94 | 8.74  | 1     | 1.0      | 2.0   |
+|   0 | 0    | 12   | nan  | nan  | nan  | nan  | nan  | nan    | DNF  | 9     | 1     | 3     | 2        | 4     |
