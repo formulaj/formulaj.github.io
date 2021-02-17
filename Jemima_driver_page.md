@@ -10,6 +10,6 @@ title: Jemima Driver Statistics
 |   3 | 1    | 1    | 4    | 3    | 2    | 3    | 4    | 4      | 2    | DNF   | 4     | 3     | nan      | nan   |
 |   4 | 10   | DNF  | DNF  | 3    | 6    | DNF  | 3    | 7      | 11   | DNF   | 10    | 14    | nan      | nan   |
 |   5 | DNF  | 2    | DNF  | 2    | DNF  | DNF  | 1    | 3      | 5    | DNF   | DNF   | 7     | nan      | nan   |
-|   6 | 3    | 10   | 4    | DNF  | DNQ  | 3    | 1    | DNF    | 1    | nan   | nan   | nan   | 0.0      | 33.0  |
+|   6 | 3    | 10   | 4    | DNF  | DNQ  | 3    | 1    | DNF    | 1    | -     | -     | -     | 0.0      | 33.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 496  | 7    | 21   | 46   | 68   | 69   | 22   | 144    | 1    | 67.65 | 7.19  | 1     | 1.0      | 5.0   |
+|   0 | -    | 3    | nan  | nan  | nan  | nan  | nan  | nan    | DNF  | DNF   | 6     | 1     | 3        | DNF   |
