@@ -10,6 +10,6 @@ title: Sam-K Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 34.0  |
 |   5 | DNQ  | 7    | DNF  | DNF  | -    | DNF  | 11   | DNQ    | DNF  | DNQ   | 16    | 16    | 0.0      | 45.0  |
-|   6 | DNF  | DNF  | 11   | -    | -    | DNF  | 15   | -      | 10   | nan   | nan   | nan   | 0.0      | 47.0  |
+|   6 | DNF  | DNF  | 11   | -    | -    | DNF  | 15   | -      | 10   | 12    | 17    | -     | 0.0      | 47.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 111  | 0    | 5    | 16   | 26   | 29   | 10   | 19     | 3    | 61.54 | 3.83  | 3     | 0.0      | 17.0  |
+|   0 | -    | DNF  | nan  | nan  | nan  | nan  | nan  | nan    | 7    | -     | -     | -     | -        | DNQ   |
