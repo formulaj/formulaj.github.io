@@ -10,6 +10,6 @@ title: Erica Driver Statistics
 |   3 | DNF  | DNF  | DNQ  | 14   | DNQ  | 16   | 15   | 16     | DNQ  | DNQ   | DNQ   | -     | 0.0      | 28.0  |
 |   4 | DNF  | DNQ  | DNF  | DNF  | DNQ  | DNQ  | DNF  | DNQ    | 6    | DNQ   | DNQ   | DNF   | nan      | nan   |
 |   5 | DNF  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | -    | -     | -     | -     | nan      | nan   |
-|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | DNQ  | nan   | nan   | nan   | 0.0      | 45.0  |
+|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | DNQ  | DNF   | 1     | 11    | 0.0      | 45.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 39   | 0    | 1    | 9    | 24   | 48   | 15   | -44    | 24   | 37.5  | 0.81  | 2     | 0.0      | 32.0  |
+|   0 | 11   | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | DNF   | DNF   | DNF   | -        | DNF   |
