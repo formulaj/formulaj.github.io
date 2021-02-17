@@ -10,6 +10,6 @@ title: Lewis Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 16.0     | 16.0  |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 28.0  |
 |   5 | -    | DNQ  | -    | DNQ  | -    | -    | DNQ  | -      | DNQ  | DNQ   | -     | -     | 0.0      | 42.0  |
-|   6 | DNQ  | DNQ  | DNQ  | -    | -    | 16   | -    | -      | DNQ  | nan   | nan   | nan   | 2.0      | 27.0  |
+|   6 | DNQ  | DNQ  | DNQ  | -    | -    | 16   | -    | -      | DNQ  | DNQ   | -     | -     | 2.0      | 27.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 1    | 1    | 10   | 0    | 2      | 9    | 100.0 | 0.0   | 16    | 0.0      | 66.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
