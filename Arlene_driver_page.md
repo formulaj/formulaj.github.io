@@ -10,6 +10,6 @@ title: Arlene Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 51.0  |
-|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | nan   | nan   | nan   | 0.0      | 54.0  |
+|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 54.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 14   | 0    | 0    | 6    | 12   | 12   | 6    | -12    | 0    | 50.0  | 1.17  | 6     | 0.0      | 43.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | DNF  | -     | -     | -     | -        | -     |
