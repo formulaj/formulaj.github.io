@@ -12,4 +12,4 @@ title: Yumi Driver Statistics
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | 6     | 9     | 106.0    | 2.0   |
 |   6 | -    | 11   | DNQ  | 12   | 7    | -    | 18   | 17     | -    | nan   | nan   | nan   | 78.0     | 6.0   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 14   | 0    | 0    | 7    | 7    | 9    | 0    | 20     | 2    | 100.0 | 1.56  | 6     | 0.0      | 42.0  |
+|   0 | 0    | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
