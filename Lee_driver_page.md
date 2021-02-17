@@ -10,6 +10,6 @@ title: Lee Driver Statistics
 |   3 | DNQ  | DNF  | 14   | 10   | DNF  | DNF  | 14   | DNF    | 13   | DNQ   | 13    | -     | nan      | nan   |
 |   4 | DNF  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | nan      | nan   |
 |   5 | DNQ  | DNQ  | -    | DNQ  | DNQ  | -    | -    | -      | DNQ  | DNQ   | -     | -     | 9.0      | 20.0  |
-|   6 | -    | 13   | 7    | DNQ  | 17   | 4    | 8    | -      | -    | nan   | nan   | nan   | 0.0      | 46.0  |
+|   6 | -    | 13   | 7    | DNQ  | 17   | 4    | 8    | -      | -    | -     | -     | -     | 0.0      | 46.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 18   | 0    | 0    | 10   | 15   | 34   | 5    | 3      | 19   | 66.67 | 0.53  | 4     | 0.0      | 40.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | DNQ   | -        | DNQ   |
