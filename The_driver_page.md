@@ -10,6 +10,6 @@ title: The Driver Statistics
 |   3 | DNF  | 11   | 12   | 13   | DNF  | DNQ  | DNF  | DNQ    | -    | -     | -     | -     | 4.0      | 23.0  |
 |   4 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 60.0     | 8.0   |
 |   5 | DNQ  | -    | DNQ  | -    | 5    | DNQ  | 14   | 13     | DNQ  | -     | 1     | 10    | 42.0     | 12.0  |
-|   6 | 17   | DNF  | 12   | -    | 14   | -    | 16   | 14     | DNQ  | nan   | nan   | nan   | 20.0     | 16.0  |
+|   6 | 17   | DNF  | 12   | -    | 14   | -    | 16   | 14     | DNQ  | DNF   | -     | 18    | 20.0     | 16.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 30   | 1    | 1    | 13   | 17   | 35   | 4    | 18     | 18   | 76.47 | 0.86  | 1     | 0.0      | 35.0  |
+|   0 | 18   | 17   | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | DNF   | -        | DNQ   |
