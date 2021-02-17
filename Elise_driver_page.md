@@ -10,6 +10,6 @@ title: Elise Driver Statistics
 |   3 | DNF  | DNQ  | DNF  | DNF  | DNQ  | 17   | DNQ  | DNF    | DNF  | DNQ   | 17    | -     | nan      | nan   |
 |   4 | 1    | DNF  | 3    | 2    | DNF  | 13   | DNF  | DNF    | 2    | 3     | 11    | 6     | nan      | nan   |
 |   5 | DNF  | 13   | 11   | -    | 6    | 4    | -    | 17     | 7    | DNF   | -     | -     | nan      | nan   |
-|   6 | DNQ  | -    | -    | DNQ  | 15   | -    | -    | -      | DNF  | nan   | nan   | nan   | nan      | nan   |
+|   6 | DNQ  | -    | -    | DNQ  | 15   | -    | -    | -      | DNF  | 11    | DNQ   | -     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 174  | 1    | 7    | 24   | 41   | 47   | 17   | 11     | 6    | 58.54 | 3.7   | 1     | 0.0      | 12.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | 2     | DNF   | DNF   | -        | DNF   |
