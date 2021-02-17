@@ -10,6 +10,6 @@ title: Jan Driver Statistics
 |   3 | 4    | DNQ  | 10   | 4    | 6    | 8    | 6    | 7      | DNF  | DNF   | 9     | 7     | 7.0      | 20.0  |
 |   4 | DNF  | 17   | DNF  | 5    | 13   | 5    | DNF  | DNF    | 14   | 7     | DNQ   | 9     | 14.0     | 16.0  |
 |   5 | 6    | -    | DNQ  | -    | 12   | DNF  | 8    | 7      | DNF  | DNQ   | 3     | 3     | 0.0      | 32.0  |
-|   6 | 7    | 7    | DNF  | -    | 16   | -    | 14   | 16     | 3    | nan   | nan   | nan   | 0.0      | 43.0  |
+|   6 | 7    | 7    | DNF  | -    | 16   | -    | 14   | 16     | 3    | -     | -     | -     | 0.0      | 43.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 171  | 0    | 3    | 35   | 49   | 53   | 14   | 57     | 4    | 71.43 | 3.23  | 3     | 0.0      | 13.0  |
+|   0 | -    | 7    | nan  | nan  | nan  | nan  | nan  | nan    | -    | DNF   | DNF   | 4     | 7        | 6     |
