@@ -10,6 +10,6 @@ title: Shopping Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 37.0  |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 10.0     | 19.0  |
 |   5 | DNQ  | DNQ  | DNQ  | -    | 11   | -    | -    | -      | -    | -     | DNQ   | -     | 2.0      | 27.0  |
-|   6 | DNQ  | DNQ  | DNQ  | -    | -    | DNF  | DNQ  | -      | DNF  | nan   | nan   | nan   | 5.0      | 23.0  |
+|   6 | DNQ  | DNQ  | DNQ  | -    | -    | DNF  | DNQ  | -      | DNF  | DNQ   | 2     | 7     | 5.0      | 23.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 1    | 3    | 11   | 2    | -8     | 8    | 33.33 | 0.0   | 11    | 0.0      | 60.0  |
+|   0 | 7    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | DNQ   |
