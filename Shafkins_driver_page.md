@@ -10,6 +10,6 @@ title: Shafkins Driver Statistics
 |   3 | DNQ  | DNQ  | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | DNF  | 18   | DNQ  | DNQ  | DNF  | DNF  | DNF  | 16     | 12   | DNF   | 4     | 13    | nan      | nan   |
 |   5 | DNQ  | -    | DNQ  | -    | -    | DNQ  | DNQ  | 15     | 9    | -     | DNQ   | -     | nan      | nan   |
-|   6 | -    | -    | -    | 8    | 11   | DNF  | -    | 9      | -    | nan   | nan   | nan   | nan      | nan   |
+|   6 | -    | -    | -    | 8    | 11   | DNF  | -    | 9      | -    | 5     | 16    | 13    | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 30   | 0    | 0    | 17   | 27   | 37   | 10   | 0      | 10   | 62.96 | 0.81  | 4     | 0.0      | 36.0  |
+|   0 | 13   | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | 8     | 12    | DNQ   | -        | DNQ   |
