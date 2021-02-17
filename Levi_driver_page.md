@@ -10,6 +10,6 @@ title: Levi Driver Statistics
 |   3 | DNF  | DNF  | 5    | 5    | DNF  | DNF  | DNF  | 15     | 15   | DNF   | 15    | DNF   | 1.0      | 24.0  |
 |   4 | DNQ  | DNQ  | DNQ  | DNQ  | 11   | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 0.0      | 36.0  |
 |   5 | DNQ  | -    | DNQ  | DNQ  | -    | DNQ  | DNQ  | DNQ    | DNQ  | -     | DNQ   | -     | 0.0      | 44.0  |
-|   6 | -    | -    | DNQ  | DNQ  | -    | DNF  | -    | DNQ    | 9    | nan   | nan   | nan   | 17.0     | 19.0  |
+|   6 | -    | -    | DNQ  | DNQ  | -    | DNF  | -    | DNQ    | 9    | -     | -     | -     | 17.0     | 19.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 65   | 0    | 1    | 16   | 26   | 48   | 10   | 7      | 22   | 61.54 | 1.35  | 3     | 0.0      | 22.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | 10    | DNF   | DNF   | DNF      | DNQ   |
