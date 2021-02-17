@@ -10,6 +10,6 @@ title: Rucha Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 47.0     | 8.0   |
 |   4 | -    | DNQ  | DNQ  | DNQ  | DNQ  | 15   | -    | -      | -    | -     | DNQ   | -     | 0.0      | 27.0  |
 |   5 | -    | -    | -    | DNQ  | -    | DNQ  | DNQ  | DNQ    | -    | DNQ   | -     | -     | 0.0      | 40.0  |
-|   6 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | -    | -    | -      | -    | nan   | nan   | nan   | 0.0      | 38.0  |
+|   6 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | -    | -    | -      | -    | -     | -     | -     | 0.0      | 38.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 1    | 1    | 16   | 0    | 2      | 15   | 100.0 | 0.0   | 15    | 0.0      | 58.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
