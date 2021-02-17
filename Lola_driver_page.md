@@ -7,9 +7,9 @@ title: Lola Driver Statistics
 |----:|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-------|:-----|:------|:------|:------|:---------|:------|
 |   1 | nan  | nan  | nan  | nan  | nan  | nan  | nan  | nan    | nan  | nan   | nan   | nan   | nan      | nan   |
 |   2 | nan  | nan  | nan  | nan  | nan  | nan  | nan  | nan    | nan  | nan   | nan   | nan   | nan      | nan   |
-|   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
-|   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
-|   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 48.0  |
-|   6 | -    | -    | -    | -    | -    | nan  | nan  | nan    | nan  | nan   | nan   | nan   | 0.0      | 53.0  |
+|   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 6.0      | 21.0  |
+|   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 16.0     | 14.0  |
+|   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 43.0  |
+|   6 | -    | -    | -    | -    | -    | nan  | nan  | nan    | nan  | nan   | nan   | nan   | 0.0      | 48.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
 |   0 | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0      | 0    | 0.0   | 0.0   | 0     | 0.0      | 72.0  |
