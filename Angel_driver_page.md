@@ -10,6 +10,6 @@ title: Angel Driver Statistics
 |   3 | DNF  | DNF  | 19   | 15   | 13   | DNQ  | DNF  | 17     | DNF  | DNF   | 19    | -     | 0.0      | 30.0  |
 |   4 | 3    | 10   | 8    | 4    | 9    | 4    | DNF  | DNF    | 16   | 8     | DNF   | DNF   | 0.0      | 29.0  |
 |   5 | -    | -    | DNQ  | 10   | -    | DNQ  | DNQ  | -      | DNQ  | -     | DNQ   | -     | nan      | nan   |
-|   6 | 18   | -    | -    | -    | -    | DNQ  | DNQ  | -      | DNQ  | nan   | nan   | nan   | nan      | nan   |
+|   6 | 18   | -    | -    | -    | -    | DNQ  | DNQ  | -      | DNQ  | DNQ   | -     | -     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 62   | 0    | 1    | 19   | 36   | 45   | 17   | -24    | 9    | 52.78 | 1.38  | 3     | 0.0      | 23.0  |
+|   0 | -    | 18   | nan  | nan  | nan  | nan  | nan  | nan    | -    | DNF   | DNF   | DNF   | -        | -     |
