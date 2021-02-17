@@ -10,6 +10,6 @@ title: LeGaffe Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   5 | 8    | 10   | 9    | DNF  | 14   | 11   | 13   | 14     | -    | DNF   | -     | 15    | 0.0      | 52.0  |
-|   6 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | -    | -    | -      | -    | nan   | nan   | nan   | 0.0      | 57.0  |
+|   6 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | -    | -    | -      | -    | 16    | DNQ   | -     | 0.0      | 57.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 9    | 0    | 0    | 8    | 10   | 15   | 2    | 12     | 5    | 80.0  | 0.6   | 8     | 0.0      | 44.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | 8     |
