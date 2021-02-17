@@ -10,6 +10,6 @@ title: Sophia Driver Statistics
 |   3 | DNF  | DNF  | DNQ  | DNF  | -    | -    | -    | 14     | 7    | DNF   | 11    | 1     | nan      | nan   |
 |   4 | 2    | 7    | 6    | 1    | 1    | 1    | DNF  | 1      | 3    | 4     | 12    | 2     | nan      | nan   |
 |   5 | 1    | 1    | 7    | DNF  | DNF  | 2    | DNF  | 1      | DNF  | DNF   | 11    | 17    | 0.0      | 30.0  |
-|   6 | 2    | 2    | 16   | DNF  | 6    | 7    | DNF  | 7      | DNF  | nan   | nan   | nan   | 0.0      | 37.0  |
+|   6 | 2    | 2    | 16   | DNF  | 6    | 7    | DNF  | 7      | DNF  | DNQ   | 14    | -     | 0.0      | 37.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 534  | 13   | 22   | 39   | 64   | 66   | 25   | 122    | 2    | 60.94 | 8.09  | 1     | 2.0      | 4.0   |
+|   0 | -    | 2    | nan  | nan  | nan  | nan  | nan  | nan    | 3    | DNF   | DNQ   | DNF   | 1        | 1     |
