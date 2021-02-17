@@ -10,6 +10,6 @@ title: Lamis Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 16.0     | 17.0  |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 6.0      | 22.0  |
 |   5 | -    | -    | -    | -    | -    | -    | 17   | 10     | -    | DNF   | -     | -     | 7.0      | 21.0  |
-|   6 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | nan   | nan   | nan   | 2.0      | 28.0  |
+|   6 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | -     | -     | -     | 2.0      | 28.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 1    | 0    | 0    | 2    | 3    | 12   | 1    | 1      | 9    | 66.67 | 0.08  | 10    | 0.0      | 52.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
