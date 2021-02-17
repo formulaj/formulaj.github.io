@@ -10,6 +10,6 @@ title: Morgan Driver Statistics
 |   3 | 6    | 8    | 16   | 12   | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | 5     | DNQ   | DNF   | 59.0     | 7.0   |
 |   4 | DNQ  | DNQ  | DNQ  | 10   | DNF  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 54.0     | 9.0   |
 |   5 | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | -    | DNQ   | -     | -     | 69.0     | 6.0   |
-|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | DNQ  | nan   | nan   | nan   | 83.0     | 5.0   |
+|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 83.0     | 5.0   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 48   | 0    | 0    | 12   | 20   | 49   | 8    | 2      | 29   | 60.0  | 0.98  | 5     | 0.0      | 28.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | 6     | DNF   | 6     | DNF      | DNQ   |
