@@ -10,6 +10,6 @@ title: Stephan Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 44.0     | 9.0   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 172.0    | 1.0   |
 |   5 | 7    | 8    | 6    | NC   | 10   | DNF  | 16   | -      | DNF  | DNQ   | 12    | 1     | 99.0     | 4.0   |
-|   6 | 6    | 5    | 5    | 1    | 13   | 14   | 3    | DNF    | DNF  | nan   | nan   | nan   | 67.0     | 8.0   |
+|   6 | 6    | 5    | 5    | 1    | 13   | 14   | 3    | DNF    | DNF  | 14    | 11    | 10    | 67.0     | 8.0   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 208  | 2    | 5    | 23   | 31   | 32   | 7    | 70     | 1    | 74.19 | 6.5   | 1     | 0.0      | 10.0  |
+|   0 | 10   | 6    | nan  | nan  | nan  | nan  | nan  | nan    | 8    | -     | -     | -     | -        | 7     |
