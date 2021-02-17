@@ -10,6 +10,6 @@ title: Jezza Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
-|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | nan   | nan   | nan   | nan      | nan   |
+|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 46   | 0    | 1    | 8    | 12   | 12   | 4    | 9      | 0    | 66.67 | 3.83  | 3     | 0.0      | 30.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | 6    | -     | -     | -     | -        | -     |
