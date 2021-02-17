@@ -10,6 +10,6 @@ title: Elliot Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 31.0  |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 106.0    | 4.0   |
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 20.0     | 17.0  |
-|   6 | -    | -    | -    | -    | -    | nan  | nan  | nan    | nan  | nan   | nan   | nan   | 0.0      | 30.0  |
+|   6 | -    | -    | -    | -    | -    | nan  | nan  | nan    | nan  | DNQ   | DNQ   | -     | 0.0      | 30.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0      | 0    | 0.0   | 0.0   | 0     | 0.0      | 71.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | 0    | 0     | 0     | -     | -        | -     |
