@@ -10,6 +10,6 @@ title: Helena Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
-|   6 | 9    | DNQ  | 14   | DNF  | DNQ  | -    | -    | -      | -    | nan   | nan   | nan   | nan      | nan   |
+|   6 | 9    | DNQ  | 14   | DNF  | DNQ  | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 4    | 0    | 0    | 2    | 3    | 5    | 1    | 1      | 2    | 66.67 | 0.8   | 9     | 0.0      | 48.0  |
+|   0 | -    | 9    | nan  | nan  | nan  | nan  | nan  | nan    | 0    | 0     | 0     | -     | -        | -     |
