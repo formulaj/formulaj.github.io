@@ -10,6 +10,6 @@ title: Tom Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | DNQ  | DNQ  | 15     | 9    | DNF   | DNF   | -     | nan      | nan   |
 |   5 | DNQ  | DNF  | DNF  | 9    | DNF  | 7    | DNF  | -      | DNF  | DNQ   | 13    | 2     | nan      | nan   |
-|   6 | 10   | 8    | 9    | DNF  | 8    | 11   | 10   | 11     | 5    | nan   | nan   | nan   | nan      | nan   |
+|   6 | 10   | 8    | 9    | DNF  | 8    | 11   | 10   | 11     | 5    | -     | -     | -     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 57   | 0    | 1    | 14   | 22   | 26   | 8    | 11     | 4    | 63.64 | 2.19  | 2     | 0.0      | 24.0  |
+|   0 | -    | 10   | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | DNQ   |
