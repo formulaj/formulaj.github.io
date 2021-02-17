@@ -10,6 +10,6 @@ title: Mia Driver Statistics
 |   3 | 5    | DNQ  | 15   | 7    | 9    | 5    | 9    | 13     | 5    | 4     | 8     | 8     | 15.0     | 18.0  |
 |   4 | 7    | 5    | 7    | 6    | 12   | DNQ  | DNF  | 5      | 7    | 9     | 5     | 8     | 14.0     | 17.0  |
 |   5 | 5    | DNF  | DNF  | NC   | 4    | 10   | 4    | 9      | 3    | 3     | DNF   | 8     | 33.0     | 14.0  |
-|   6 | 19   | 14   | 10   | 3    | 3    | 13   | 17   | 1      | DNF  | nan   | nan   | nan   | 4.0      | 24.0  |
+|   6 | 19   | 14   | 10   | 3    | 3    | 13   | 17   | 1      | DNF  | -     | -     | -     | 4.0      | 24.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 276  | 1    | 6    | 43   | 53   | 57   | 9    | 130    | 4    | 81.13 | 4.84  | 1     | 0.0      | 7.0   |
+|   0 | -    | 19   | nan  | nan  | nan  | nan  | nan  | nan    | -    | DNF   | 2     | 5     | 8        | 5     |
