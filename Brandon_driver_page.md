@@ -10,6 +10,6 @@ title: Brandon Driver Statistics
 |   3 | DNF  | DNQ  | DNF  | DNF  | 7    | DNF  | 5    | DNF    | 9    | DNF   | 5     | 5     | nan      | nan   |
 |   4 | 8    | 8    | 15   | DNF  | DNQ  | DNQ  | DNF  | 12     | DNQ  | DNQ   | DNQ   | 15    | nan      | nan   |
 |   5 | -    | 14   | 14   | DNF  | DNF  | DNF  | 12   | DNF    | DNF  | DNF   | 15    | -     | nan      | nan   |
-|   6 | -    | DNQ  | DNQ  | DNQ  | 18   | 15   | DNQ  | DNQ    | 8    | nan   | nan   | nan   | nan      | nan   |
+|   6 | -    | DNQ  | DNQ  | DNQ  | 18   | 15   | DNQ  | DNQ    | 8    | DNQ   | DNQ   | -     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 134  | 1    | 2    | 31   | 51   | 62   | 20   | 5      | 11   | 60.78 | 2.16  | 1     | 0.0      | 14.0  |
+|   0 | -    | -    | nan  | nan  | nan  | nan  | nan  | nan    | 1    | 12    | 11    | DNF   | 5        | -     |
