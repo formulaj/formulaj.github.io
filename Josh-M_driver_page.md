@@ -10,6 +10,6 @@ title: Josh-M Driver Statistics
 |   3 | DNF  | DNF  | 7    | 11   | DNF  | DNQ  | 12   | 6      | DNF  | 7     | 6     | DNF   | nan      | nan   |
 |   4 | DNQ  | DNF  | 12   | NC   | DNQ  | 11   | DNF  | DNF    | 8    | DNF   | 13    | -     | nan      | nan   |
 |   5 | 10   | 9    | 12   | DNQ  | DNF  | 8    | 10   | DNQ    | -    | 2     | -     | 11    | nan      | nan   |
-|   6 | 14   | DNF  | 15   | 4    | 9    | -    | 7    | 8      | DNF  | nan   | nan   | nan   | 37.0     | 13.0  |
+|   6 | 14   | DNF  | 15   | 4    | 9    | -    | 7    | 8      | DNF  | -     | -     | -     | 37.0     | 13.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 80   | 0    | 1    | 30   | 48   | 53   | 17   | 14     | 5    | 62.5  | 1.51  | 2     | 0.0      | 19.0  |
+|   0 | -    | 14   | nan  | nan  | nan  | nan  | nan  | nan    | -    | 7     | 10    | DNF   | DNF      | 10    |
