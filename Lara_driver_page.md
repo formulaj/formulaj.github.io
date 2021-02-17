@@ -10,6 +10,6 @@ title: Lara Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 34.0  |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 40.0  |
 |   5 | -    | -    | -    | -    | -    | -    | -    | DNQ    | -    | DNQ   | -     | -     | 4.0      | 24.0  |
-|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | nan   | nan   | nan   | nan      | nan   |
+|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | DNF   | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 0    | 0    | 2    | 0    | 0      | 2    | 0.0   | 0.0   | 0     | 0.0      | 67.0  |
+|   0 | DNF  | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
