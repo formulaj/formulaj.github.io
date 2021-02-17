@@ -10,6 +10,6 @@ title: Emma Driver Statistics
 |   3 | DNQ  | -    | -    | -    | -    | 13   | -    | -      | -    | DNQ   | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 0.0      | 47.0  |
-|   6 | DNQ  | -    | -    | DNQ  | DNQ  | -    | -    | -      | DNQ  | nan   | nan   | nan   | 0.0      | 49.0  |
+|   6 | DNQ  | -    | -    | DNQ  | DNQ  | -    | -    | -      | DNQ  | DNF   | DNQ   | -     | 0.0      | 49.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 1    | 1    | 7    | 0    | 2      | 6    | 100.0 | 0.0   | 13    | 0.0      | 61.0  |
+|   0 | -    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | DNQ   | -        | -     |
