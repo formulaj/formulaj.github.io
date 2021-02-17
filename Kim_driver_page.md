@@ -10,6 +10,6 @@ title: Kim Driver Statistics
 |   3 | DNF  | DNQ  | 6    | 8    | DNQ  | 10   | 8    | 8      | 11   | DNF   | DNF   | DNF   | nan      | nan   |
 |   4 | DNQ  | 13   | 9    | DNQ  | DNF  | 14   | DNF  | 10     | DNQ  | DNF   | 8     | DNF   | 0.0      | 39.0  |
 |   5 | DNQ  | DNF  | 13   | DNF  | 8    | 9    | 9    | 11     | -    | DNF   | -     | DNF   | 0.0      | 53.0  |
-|   6 | 11   | DNQ  | DNF  | DNF  | 10   | -    | 11   | 10     | DNF  | nan   | nan   | nan   | 8.0      | 22.0  |
+|   6 | 11   | DNQ  | DNF  | DNF  | 10   | -    | 11   | 10     | DNF  | DNQ   | DNQ   | -     | 8.0      | 22.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 74   | 0    | 0    | 28   | 47   | 54   | 19   | -3     | 7    | 59.57 | 1.37  | 4     | 0.0      | 20.0  |
+|   0 | -    | 11   | nan  | nan  | nan  | nan  | nan  | nan    | -    | DNF   | 4     | DNF   | DNF      | DNQ   |
