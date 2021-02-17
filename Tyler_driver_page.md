@@ -10,6 +10,6 @@ title: Tyler Driver Statistics
 |   3 | -    | -    | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 28.0     | 12.0  |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 4.0      | 23.0  |
 |   5 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 6.0      | 22.0  |
-|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | nan   | nan   | nan   | 0.0      | 41.0  |
+|   6 | -    | -    | -    | -    | -    | -    | -    | -      | -    | 4     | DNF   | 17    | 0.0      | 41.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 0    | 0    | 9    | 0    | 0      | 9    | 0.0   | 0.0   | 0     | 0.0      | 64.0  |
+|   0 | 17   | -    | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | -     |
