@@ -10,6 +10,6 @@ title: Daniel Driver Statistics
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | 12    | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | 3     | 10    | nan      | nan   |
 |   5 | DNQ  | DNQ  | DNQ  | DNQ  | -    | 12   | -    | 16     | 4    | -     | 18    | DNF   | nan      | nan   |
-|   6 | 15   | 12   | DNQ  | -    | -    | 10   | DNF  | -      | 7    | nan   | nan   | nan   | nan      | nan   |
+|   6 | 15   | 12   | DNQ  | -    | -    | 10   | DNF  | -      | 7    | 2     | 12    | 8     | nan      | nan   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 29   | 0    | 1    | 11   | 13   | 23   | 2    | 25     | 10   | 84.62 | 1.26  | 3     | 0.0      | 37.0  |
+|   0 | 8    | 15   | nan  | nan  | nan  | nan  | nan  | nan    | -    | -     | -     | -     | -        | DNQ   |
