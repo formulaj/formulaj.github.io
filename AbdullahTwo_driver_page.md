@@ -12,4 +12,4 @@ title: AbdullahTwo Driver Statistics
 |   5 | DNF  | 15   | -    | 8    | -    | -    | -    | DNQ    | -    | DNF   | -     | -     | 3.0      | 26.0  |
 |   6 | DNQ  | -    | -    | 7    | DNQ  | -    | -    | 19     | -    | -     | 5     | 2     | 42.0     | 12.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 2    | DNQ  | nan  | nan  | nan  | nan  | nan  | nan    | -    | 5     | DNF   | DNQ   | 13       | DNF   |
+|   0 | 67   | 0    | 1    | 18   | 23   | 46   | 5    | 28     | 23   | 78.26 | 1.46  | 2     | 0.0      | 22.0  |
