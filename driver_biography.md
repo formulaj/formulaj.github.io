@@ -1,3 +1,9 @@
+---
+layout: page
+title: Driver Biography
+permalink: /driver_biography/
+---
+
 ## Vedang
 Vedang started his formula j career with a bang. After winning his first ever race in season 1, he turned into a bit of a disappointment. He soon took the record number of wins, which he still currently holds, and currently has made the most money for his team. Vedang, whilst he is an undoubtedly spectacular drvier, has not achieved his full potential: he has not been close to winning a championship until season 6, beaten by his previously uncompetitive teammate in season 2. He also owns the undoubtedly best team, Yer Da, winning a record of 3 Teams' Championships. Still, Vedang clearly remains the best driver, with a substantial lead in points and an incredible points per race. 
 
