@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Driver Biography
+title: Driver Biographies
 permalink: /driver_biography/
 ---
 
