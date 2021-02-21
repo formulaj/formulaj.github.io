@@ -1,14 +1,15 @@
 ---
 layout: post 
-title: Peniston- Bird Team Statistics
+title: Peniston-Bird Team Statistics
 --- 
 
-| Season   | Team          | R1   | R2   | R3   | R4   | R5   | R6   | R7   | R8   | R9   | R10   | R11   | R12   | Pts   | Pos   |
-|:---------|:--------------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:------|:------|:------|:------|:------|
-| 1        | Peniston-Bird | -    | -    | -    | -    | -    | -    | -    | -    | -    | -     | -     | -     | -     | -     |
-| 2        | Peniston-Bird | -    | -    | -    | -    | -    | -    | -    | -    | -    | -     | -     | -     | -     | -     |
-| 3        | Peniston-Bird | -    | -    | -    | -    | -    | -    | -    | -    | -    | -     | -     | -     | -     | -     |
-| 4        | Peniston-Bird | DNF  | 18   | DNQ  | DNQ  | DNF  | DNF  | DNF  | 16   | 12   | 14    | 4     | 13    | 10    | 12    |
-| 5        | Peniston-Bird | DNF  | -    | DNQ  | -    | -    | DNQ  | DNQ  | 15   | 9    | -     | DNQ   | -     | 2     | 16    |
-| -        | -             | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNF  | SOP  | DNQ  | %Fin  | PPR   | BST   | CHA   | RNK   |
-| -        | -             | 12   | 0    | 0    | 8    | 13   | 19   | 4    | 8    | 6    | 61.5  | 0.63  | 4     | 0     | 24    |
+|     | R1   | R2   | R3   | R4   | R5   | R6   | R7   | R8     | R9   | R10   | R11   | R12   | Points   | Pos           |
+|----:|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-------|:-----|:------|:------|:------|:---------|:--------------|
+|   1 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan           |
+|   2 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan           |
+|   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 10.0     | 12.0          |
+|   4 | DNF  | 18   | DNQ  | DNQ  | DNF  | DNF  | DNF  | 16     | 12   | 14    | 4     | 13    | 2.0      | 16.0          |
+|   5 | DNF  | -    | DNQ  | -    | -    | DNQ  | DNQ  | 15     | 9    | -     | DNQ   | -     | 5.0      | 14.0          |
+|   6 | -    | -    | -    | 8    | 11   | DNF  | -    | 9      | -    | 12    | 14    | -     | nan      | Peniston-Bird |
+| nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK           |
+|   0 | 17   | 0    | 0    | 13   | 19   | 25   | 4    | -      | 6    | 68.4  | 0.68  | 4     | 0        | 24            |
