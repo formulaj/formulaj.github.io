@@ -1,14 +1,15 @@
 ---
 layout: post 
-title: Man City Team Statistics
+title: ManCity Team Statistics
 --- 
 
-| Season   | Team     | R1   | R2   | R3   | R4   | R5   | R6   | R7   | R8   | R9   | R10   | R11   | R12   | Pts   | Pos   |
-|:---------|:---------|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:------|:------|:------|:------|:------|
-| 1        | Man City | -    | -    | -    | -    | -    | -    | -    | -    | -    | -     | -     | -     | -     | -     |
-| 2        | Man City | -    | -    | -    | -    | -    | -    | -    | -    | -    | -     | -     | -     | -     | -     |
-| 3        | Man City | DNQ  | 5    | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ   | DNQ   | 16    | 8     | 11    |
-| 4        | Man City | DNF  | DNF  | 16   | DNQ  | 15   | DNQ  | DNQ  | DNQ  | DNQ  | DNQ   | DNQ   | -     | 0     | 16    |
-| 5        | Man City | 9    | DNQ  | -    | DNQ  | DNQ  | -    | -    | -    | DNQ  | DNQ   | -     | -     | 4     | 15    |
-| -        | -        | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNF  | SOP  | DNQ  | %Fin  | PPR   | BST   | CHA   | RNK   |
-| -        | -        | 12   | 0    | 0    | 5    | 7    | 29   | 2    | 30   | 22   | 71.4  | 0.41  | 5     | 0     | 23    |
+|     | R1   | R2   | R3   | R4   | R5   | R6   | R7   | R8     | R9   | R10   | R11   | R12   | Points   | Pos      |
+|----:|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-------|:-----|:------|:------|:------|:---------|:---------|
+|   1 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan      |
+|   2 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | 8.0      | 11.0     |
+|   3 | DNQ  | 5    | DNQ  | DNQ  | DNQ  | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | 16    | 0.0      | 16.0     |
+|   4 | DNF  | DNF  | 16   | DNQ  | 15   | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 4.0      | 15.0     |
+|   5 | 9    | DNQ  | -    | DNQ  | DNQ  | -    | -    | -      | DNQ  | DNQ   | -     | -     | 25.0     | 8.0      |
+|   6 | -    | 13   | 7    | 5    | 12   | 4    | 8    | -      | -    | -     | -     | 20    | nan      | Man City |
+| nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK      |
+|   0 | 37   | 0    | 0    | 12   | 14   | 36   | 2    | -      | 22   | 85.7  | 1.03  | 4     | 0        | 20       |
