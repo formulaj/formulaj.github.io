@@ -12,4 +12,4 @@ title: Royal Deluxe Team Statistics
 |   5 | DNF  | DNF  | 15   | DNF  | DNQ  | DNF  | 15   | DNF    | DNF  | DNQ   | DNQ   | -     | 0.0      | 20.0  |
 |   6 | 20   | DNQ  | DNQ  | -    | DNQ  | -    | DNQ  | DNQ    | DNQ  | DNQ   | -     | -     | 0.0      | 21.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 383  | 9    | 14   | 41   | 57   | 67   | 10   | -      | 10   | 71.9  | 5.72  | 1     | 0        | 6     |
+|   0 | 383  | 9    | 14   | 41   | 57   | 67   | 10   | -      | 10   | 71.9  | 5.72  | 1     | 1        | 6     |
