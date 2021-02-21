@@ -12,4 +12,4 @@ title: Peaky Drivers Team Statistics
 |   5 | 4    | 3    | 2    | 5    | 1    | 5    | 6    | 5      | 6    | 1     | 8     | 13    | 126.0    | 4.0   |
 |   6 | 8    | 1    | 6    | DNF  | 1    | 2    | 4    | 2      | DNF  | 4     | 6     | 9     | 112.0    | 3.0   |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 511  | 6    | 16   | 53   | 60   | 60   | 5    | -      | 0    | 88.3  | 8.52  | 1     | 1        | 3     |
+|   0 | 511  | 6    | 16   | 53   | 60   | 60   | 5    | -      | 0    | 88.3  | 8.52  | 1     | 0        | 3     |
