@@ -9,7 +9,7 @@ title: Shartwell Team Statistics
 |   2 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
-|   5 | -    | DNQ  | -    | -    | DNQ  | -    | DNQ  | -      | DNQ  | DNQ   | -     | -     | 0.0      | 25.0  |
-|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | -    | -     | DNQ   | -     | 0.0      | 27.0  |
+|   5 | -    | DNQ  | -    | -    | DNQ  | -    | DNQ  | -      | DNQ  | DNQ   | -     | -     | 0.0      | nan   |
+|   6 | DNQ  | -    | -    | -    | DNQ  | -    | DNQ  | DNQ    | -    | -     | DNQ   | -     | 0.0      | 25.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 0    | 0    | 0    | 0    | 0    | 10   | 0    | -      | 10   | 0.0   | 0.0   | 0     | 0        | 36    |
+|   0 | 0    | 0    | 0    | 0    | 0    | 10   | 0    | -      | 10   | 0.0   | 0.0   | 0     | 0.0      | 35    |
