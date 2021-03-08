@@ -9,7 +9,7 @@ title: Ishtarmac Team Statistics
 |   2 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   3 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
 |   4 | -    | -    | -    | -    | -    | -    | -    | -      | -    | -     | -     | -     | nan      | nan   |
-|   5 | DNQ  | 7    | -    | NC   | -    | -    | -    | DNQ    | -    | DNF   | -     | -     | 4.0      | 14.0  |
-|   6 | -    | -    | -    | -    | -    | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 0.0      | 23.0  |
+|   5 | DNQ  | 7    | -    | NC   | -    | -    | -    | DNQ    | -    | DNF   | -     | -     | 4.0      | nan   |
+|   6 | -    | -    | -    | -    | -    | DNQ  | DNQ  | DNQ    | DNQ  | DNQ   | DNQ   | -     | 0.0      | 14.0  |
 | nan | PTS  | WIN  | POD  | FIN  | STA  | ENT  | DNFs | N.PROF | DNQ  | %FIN  | PPR   | BST   | CHA      | RNK   |
-|   0 | 4    | 0    | 0    | 1    | 3    | 11   | 0    | -      | 8    | 33.3  | 0.36  | 7     | 0        | 30    |
+|   0 | 4    | 0    | 0    | 1    | 3    | 11   | 0    | -      | 8    | 33.3  | 0.36  | 7     | 0.0      | 29    |
